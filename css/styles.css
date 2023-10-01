@@ -164,7 +164,8 @@ a.current {
 }
 
 .h1-button:hover {
-	background-color: #2196F3;
+	background-color: #188CE8;
+	box-shadow: 0px 4px 4px 0px #00000026;
 }
 
 /* What we do section */
